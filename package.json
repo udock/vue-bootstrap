@@ -1,14 +1,9 @@
 {
   "name": "@udock/vue-bootstrap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "@udock/vue-bootstrap",
   "files": [
     "template"
   ],
-  "dependencies": {
-    "chalk": "^2.1.0",
-    "enhanced-resolve": "^3.4.1",
-    "lodash": "^4.17.4"
-  },
   "license": "MIT"
 }
