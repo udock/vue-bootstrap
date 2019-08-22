@@ -1,12 +1,12 @@
 {
   "name": "@udock/vue-bootstrap",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "@udock/vue-bootstrap",
   "files": [
     "template"
   ],
   "dependencies": {
-    "@udock/bootstrap": "^0.0.4"
+    "@udock/bootstrap": "^0.1.0"
   },
   "license": "MIT"
 }
